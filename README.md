@@ -2,13 +2,21 @@
 snorna_cd_box.py is a python program that reads a fasta file, containing Small Nucleolar RNA (SNORNA) sequences, and search CDbox motives.
 
 # Table of contents
+
 cbox.dat
+
 cms_bi.py
+
 cms_util.py
+
 dbox.dat
+
 snorna_cd_box.properties
+
 snorna_cd_box.py
+
 targetseqAnnotated.fa
+
 targetseq.fa
 
 # Installation
