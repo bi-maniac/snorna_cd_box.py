@@ -25,3 +25,8 @@ This way, you will be able to perform a test run in order to understand the proc
 
 # Usage
 ./snorna_cd_box.py properties=snorna_cd_box.properties
+
+# Documentation
+see wiki
+
+# To do
