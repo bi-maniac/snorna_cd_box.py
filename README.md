@@ -20,13 +20,23 @@ targetseqAnnotated.fa
 targetseq.fa
 
 # Installation
-Download full contents of this repository and make snorna_cd_box.py executable        
-This way, you will be able to perform a test run in order to understand the process of snorna_cd_box.py
+Download full contents of this repository and make snorna_cd_box.py executable.        
+This way, you will be able to perform a test run in order to understand the process of snorna_cd_box.py.
 
 # Usage
 ./snorna_cd_box.py properties=snorna_cd_box.properties
 
 # Documentation
-see wiki in this repository
+see Wiki in this repository
 
 # To do
+
+validation of structures
+
+canonical structures
+
+hybridizing areas
+
+# Contact me
+
+carlosmarinsebastian@gmail.com
