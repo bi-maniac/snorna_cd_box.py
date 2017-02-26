@@ -32,9 +32,7 @@ see Wiki in this repository
 # To do
 
 validation of structures
-
 canonical structures
-
 hybridizing areas
 
 # Contact me
