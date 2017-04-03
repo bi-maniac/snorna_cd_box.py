@@ -1,4 +1,5 @@
 # This has been deprecated.
+Alternative will be added soon in new sister repository.
 
 # snorna_cd_box.py
 snorna_cd_box.py is a python program that reads a fasta file, containing Small Nucleolar RNA (SNORNA) sequences, and search CDbox motives.
